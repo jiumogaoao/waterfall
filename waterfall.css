@@ -1,0 +1,17 @@
+.clear{
+	clear:both;}
+.waterfall .waterfall_frame{
+	float:left;
+	}
+.waterfall .waterfall_center{
+	width:90%;
+	margin:auto;
+	min-height:1px;}
+.waterfall .waterfall_point{
+	margin-bottom:10px;
+	width:100%;}
+.waterfall_hide{
+	width: 0px;
+	left: 0px;
+	opacity: 0;
+}
